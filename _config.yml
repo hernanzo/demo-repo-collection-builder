@@ -20,10 +20,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: "Black Power: African American and Afro-descended boxers in Chile. 1898-1930"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+#tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This project examines the intersection of racial ideologies, modern sports, and Black mobility by exploring the trajectories of several Afro-descended boxers and wrestlers who moved to Chile to launch careers in the nascent combat sports industry between 1900 and 1930. By analyzing the complex and diverse experiences of these individuals in and out of the ring, I aim to understand how the Sporting Black Diaspora—a concept developed by British sociologist Ben Carrington—overlapped with the parallel consolidation of modern sports in the Southern Cone, both as a racial project and as a hyper-commercialized mass cultural product."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho; history; inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -53,7 +53,7 @@ metadata: demo-compoundobjects-metadata
 organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 organization-link: https://cdil.lib.uidaho.edu/
 organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+#organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
 # ROBOTS EXCLUDE
